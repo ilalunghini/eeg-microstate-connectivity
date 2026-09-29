@@ -2,7 +2,7 @@
 
 Portfolio documentation for an academic project on resting-state EEG microstates, functional connectivity, and exploratory graph-theoretical analysis in healthy controls and people with multiple sclerosis. The analysis pipeline was developed in MATLAB, using EEGLAB, MICROSTATELAB, FieldTrip, and graph-theoretical tools.
 
-This repository shares the report only. It does not include raw EEG data, participant-level information, analysis code, or private pipeline materials. Code and data are not publicly available because they may contain sensitive material and are subject to privacy and authorization constraints.
+This repository shares the report only. It does not include raw EEG data, participant-level information, analysis code, or private pipeline materials. Code and data are not publicly available because they contain sensitive material and are subject to privacy and authorization constraints.
 
 ## Explore the project
 
