@@ -1,0 +1,16 @@
+# Operating-system files
+.DS_Store
+
+# Private data, analysis material, and derived outputs
+data/
+src/
+code/
+outputs/
+*.edf
+*.set
+*.fif
+*.mat
+*.csv
+*.tsv
+*.nii
+*.nii.gz
