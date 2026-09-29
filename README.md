@@ -1,6 +1,6 @@
 # EEG Microstate Connectivity
 
-Portfolio documentation for an academic project on resting-state EEG microstates, functional connectivity, and exploratory graph-theoretical analysis in healthy controls and people with multiple sclerosis.
+Portfolio documentation for an academic project on resting-state EEG microstates, functional connectivity, and exploratory graph-theoretical analysis in healthy controls and people with multiple sclerosis. The analysis pipeline was developed in MATLAB, using EEGLAB, MICROSTATELAB, FieldTrip, and graph-theoretical tools.
 
 This repository shares the report only. It does not include raw EEG data, participant-level information, analysis code, or private pipeline materials.
 
